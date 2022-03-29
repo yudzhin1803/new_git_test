@@ -1,28 +1,28 @@
-# Инструкция по работе с Git
+# **Инструкция по работе с Git**
 Для создания локального репозитория нужно запустить команду:
-> git init
+> *git init*
 
 Для добавления файла к следующему комиту:
-> git add
+> *git add
 
 И фиксируем эти файлы:
-> git commit
+> *git commit*
 
 Для отслеживания состояния репозитория, можно ввести команду:
-> git status
+> *git status*
 
 Что бы просмотреть все комиты:
-> git log
+> *git log*
 
 Для просмотра разницы между законченными и текущими изменениями:
-> git diff
+> *git diff*
 
 Для перехода к прошлым комитам (с кодом commite_code) можно использовать:
 
-> git checkout commite_code
+> *git checkout commite_code*
 
 Для возвращения к актуальному состоянию состоянию комита:
 
-> git checkout master
+> *git checkout master*
 
 ![GitHub](0_Fz2VWlH1Vi6FFCsx.jpg)
