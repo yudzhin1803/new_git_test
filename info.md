@@ -37,11 +37,14 @@
 Для перехода к ветке branch_name:
 > git checkout branch_name
 
+Для визуализации веток можно использовать:
+> git log --graph
+
 Для того чтобы удалить ветку barrnch_name, нужно написать:
 > git branch -d branch name
 
-Для визуализации веток можно использовать:
-> git log --graph
+если ветка не полностью замерджена, то с помощью тега -d ее не получиться, тогда нужно использвать тег -D:
+> git branch -D branch name
 
 ![GitHub](0_Fz2VWlH1Vi6FFCsx.jpg)
 
