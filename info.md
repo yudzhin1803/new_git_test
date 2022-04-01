@@ -33,6 +33,12 @@
 
 > git branch branch_name
 
+Для совмещения текущей ветки с веткой branh_name:
+
+> git merge branch_name
+
+изменения добавятся в текущую
+
 ![GitHub](0_Fz2VWlH1Vi6FFCsx.jpg)
 
 https://github.com/ashtanyuk/Git-intro
