@@ -39,6 +39,11 @@
 
 изменения добавятся в текущую
 
+Для перехода к ветке branch_name:
+
+> git checkout branch_name
+
+
 ![GitHub](0_Fz2VWlH1Vi6FFCsx.jpg)
 
 https://github.com/ashtanyuk/Git-intro
