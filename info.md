@@ -25,6 +25,14 @@
 
 > *git checkout master*
 
+Для просмотра всех веток:
+
+> git branch
+
+Чтобы создать ветку, нужно:
+
+> git branch branch_name
+
 ![GitHub](0_Fz2VWlH1Vi6FFCsx.jpg)
 
 https://github.com/ashtanyuk/Git-intro
