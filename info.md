@@ -49,3 +49,9 @@
 ![GitHub](0_Fz2VWlH1Vi6FFCsx.jpg)
 
 https://github.com/ashtanyuk/Git-intro
+
+# Немного самостоятельности
+
+Возврат закомиченного файла выполняется через команду:
+
+> git restore --staged <file>
