@@ -43,6 +43,9 @@
 
 > git checkout branch_name
 
+Для того чтобы удалить ветку barrnch_name, нужно написать:
+
+> git branch -d branch name
 
 ![GitHub](0_Fz2VWlH1Vi6FFCsx.jpg)
 
